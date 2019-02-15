@@ -1,2 +1,2 @@
 # GolangCourse
-Introductory Golang projects and notes
+Introductory Golang course projects and notes.
